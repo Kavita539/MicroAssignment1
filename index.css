@@ -10,7 +10,6 @@ body {
     font-family: 'Inter', sans-serif;
     font-style: normal;
     overflow-y: hidden;
-    height: 100%;
 }
 
 .upper-section {
@@ -18,7 +17,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: space-evenly;
-    padding: 3rem 0;
+    padding: 4rem 0;
 }
 
 .upper-left-section {
